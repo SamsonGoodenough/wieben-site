@@ -15,7 +15,7 @@ title: "Wieben"
 description: "Mixing and mastering services by Wieben"
 
 # The subpath of your site, e.g. /blog, for generating urls.
-baseurl: ""
+baseurl: "/"
 
 # The base hostname & protocol of your site for where absolute urls are needed.
 url: "https://wieben.ca"
