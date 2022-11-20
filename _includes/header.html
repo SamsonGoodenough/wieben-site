@@ -14,7 +14,7 @@
         {% assign current = 'nav-current' %}
         {% endif %}
         <li class="menu-item {{ current }}">
-          <a class="{{ current }}" href="{{ item.url }}">{{ item.text }}</a>
+          <a class="{{ current }}" href="{{ item.url | relative_url }}">{{ item.text }}</a>
         </li>
         {% endfor %}
       </ul><!-- .menu -->
