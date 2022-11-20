@@ -1,24 +1,34 @@
 {
   "links": [
     {
-      "title": "Twitter",
-      "icon": "fa-twitter",
-      "url": "https://twitter.com/"
-    },
-    {
-      "title": "GitHub",
-      "icon": "fa-github",
-      "url": "https://github.com/"
-    },
-    {
       "title": "Instagram",
       "icon": "fa-instagram",
-      "url": "https://www.instagram.com/"
+      "url": "https://www.instagram.com/wiebenmusic/"
     },
     {
-      "title": "LinkedIn",
-      "icon": "fa-linkedin",
-      "url": "https://www.linkedin.com/"
+      "title": "Twitter",
+      "icon": "fa-twitter",
+      "url": "https://twitter.com/AidenWiebe"
+    },
+    {
+      "title": "Spotify",
+      "icon": "fa-br-spotify",
+      "url": "https://open.spotify.com/user/aidengwiebe?si=fb017936593e408f"
+    },
+    {
+      "title": "Bandcamp",
+      "icon": "fa-br-bandcamp",
+      "url": "https://bandcamp.com/aidenwiebe"
+    },
+    {
+      "title": "Mail",
+      "icon": "fa-envelope",
+      "url": "mailto:aidengwiebe@gmail.com"
+    },
+    {
+      "title": "Youtube",
+      "icon": "fa-youtube",
+      "url": "https://www.youtube.com/channel/UCyHLrQCzsS4sYu1ehlqLDvA"
     }
   ]
 }

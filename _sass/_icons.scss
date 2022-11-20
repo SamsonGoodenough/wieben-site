@@ -12,9 +12,32 @@
   font-style: normal;
 }
 
+@font-face {
+  font-family: 'FontAwesomeBrand';
+  src:
+    url('../fonts/fa-brands.ttf?471qre') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
 [class^="fa-"], [class*=" fa-"] {
   /* use !important to prevent issues with browser extensions that change fonts */
   font-family: 'FontAwesome' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+[class^="fa-br-"], [class*=" fa-br-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'FontAwesomeBrand' !important;
   speak: none;
   font-style: normal;
   font-weight: normal;
@@ -86,4 +109,10 @@
 }
 .fa-dev:before {
   content: "\f6cc";
+}
+.fa-br-bandcamp:before {
+  content: "\f2d5";
+}
+.fa-br-spotify:before {
+  content: "\f1bc";
 }
