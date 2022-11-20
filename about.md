@@ -1,6 +1,7 @@
 ---
 layout: page
-title: About
+title: About Wieben
+permalink: /about
 description: Who is Aiden Wiebe?
 feature_image: images/about.jpg
 ---
