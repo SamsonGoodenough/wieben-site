@@ -32,6 +32,8 @@ navigation:
     url: /
   - text: About
     url: /about/
+  - text: Mixing & Mastering
+    url: /mixing-mastering/
   - text: Blog
     url: /blog/
 
