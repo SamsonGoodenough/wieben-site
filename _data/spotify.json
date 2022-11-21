@@ -1,34 +1,10 @@
 {
   "albums": [
     {
-      "title": "Sweet Hibiscus Tea",
-      "artist": "Artist Name",
-      "link": "https://open.spotify.com/track/4xoRJ2BJWRo5kFoEu4BpvC?si=6c76381a6e144fe1",
-      "image": "https://i.scdn.co/image/ab67616d00001e0218e5871b4499ba01baa14fe9"
-    },
-    {
-      "title": "girlfriend",
-      "artist": "Artist Name",
-      "link": "https://open.spotify.com/track/0Dl965SLJGi9bB0SrvtPRx?si=cc0fbc92d89d4ecf",
-      "image": "https://i.scdn.co/image/ab67616d00001e02a9d3614d51dbd54980502f15"
-    },
-    {
-      "title": "i haunt ur dreams",
-      "artist": "Artist Name",
-      "link": "https://open.spotify.com/track/7jBAskQhyfjmbYC0o3pXdW?si=49a4c0cd21244300",
-      "image": "https://i.scdn.co/image/ab67616d00001e02a0e2d5daee2a068c529a7107"
-    },
-    {
-      "title": "Car Crash in G Major",
-      "artist": "Artist Name",
-      "link": "https://open.spotify.com/track/24EtJ2vTx6CtaP32S6Arn2?si=c1a0282362f948ad",
-      "image": "https://i.scdn.co/image/ab67616d00001e024ef648e1c2adde2c3b33929e"
-    },
-    {
-      "title": "Rabbit Hearted.",
-      "artist": "Artist Name",
-      "link": "https://open.spotify.com/album/2DQwYn02bAofAeBPzLohdz?si=JdF4p_y7T0WcHho5On4qBg",
-      "image": "https://i.scdn.co/image/ab67616d00001e02a21a30e9850057345cce3182"
+      "title": "Soul Power",
+      "artist": "James Brown",
+      "link": "https://www.youtube.com/watch?v=3Ze5E41TTJ0",
+      "image": "images/soulpower_suqre.png"
     }
   ]
 }
