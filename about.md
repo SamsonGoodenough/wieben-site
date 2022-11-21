@@ -3,7 +3,7 @@ layout: page
 title: About Wieben
 permalink: /about/
 description: Who is Aiden Wiebe?
-feature_image: images/about.jpg
+feature_image: images/cover.png
 ---
 
 >When you listen to a song, what you’re really listening to is a mix.  The mix determines everything, from what instruments you hear, to how the music makes you feel.  Every popular album has a good mix, but a fantastic and creative mix is what makes the music last.  
