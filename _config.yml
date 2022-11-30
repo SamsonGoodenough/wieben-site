@@ -34,11 +34,11 @@ navigation:
     url: /about/
   - text: Mixing & Mastering
     url: /mixing-mastering/
-  - text: Blog
-    url: /blog/
+  # - text: Blog
+  #   url: /blog/
 
 # Colors
-accent_color: '#D46557'
+accent_color: '#b3b377'
 
 # Site footer
 footer:
