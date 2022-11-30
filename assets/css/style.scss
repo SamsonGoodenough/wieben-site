@@ -33,10 +33,10 @@ $font: (
 {% assign accent = site.accent_color | default: '#2d72d9' %}
 $palette: (
   accent:    {{ accent }},
-  primary:   #6d342d,
-  secondary: #593935,
-  meta:      #542823,
-  border:    #D46557,
+  primary:   #4f4f3e,
+  secondary: #4f4f3e,
+  meta:      #4f4f3e,
+  border:    #b3b377,
   bg:        hsl(15, 20%, 95%)
 );
 

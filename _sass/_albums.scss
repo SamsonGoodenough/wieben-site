@@ -29,6 +29,7 @@
     }
 
     .content {
+      container-type: inline-size;
       position: absolute;
       top: 0;
       left: 0;
@@ -37,7 +38,7 @@
       border-radius: 5px;
       display: flex;
       justify-content: center;
-      background-color: #D46557;
+      background-color: #b3b377;
       z-index: 1;
       align-items: flex-end;
       text-align: center;
@@ -45,12 +46,20 @@
 
       h4 {
         display: block;
-        margin-bottom: 0;
+        margin-bottom: -5px;
         color: white;
+        font-size: 0.8rem;
+        @supports (container-type: inline-size) {
+          font-size: 6.5cqw;
+        }
       }
 
       span {
         color: white;
+        font-size: 0.8rem;
+        @supports (container-type: inline-size) {
+          font-size: 6.5cqw;
+        }
       }
     }
   }
@@ -99,6 +108,20 @@
   
       .content {
         transform: translate(1rem, 1.6rem);
+
+        h4 {
+          font-size: 0.8rem;
+          @supports (container-type: inline-size) {
+            font-size: 4.5cqw;
+          }
+        }
+  
+        span {
+          font-size: 0.8rem;
+          @supports (container-type: inline-size) {
+            font-size: 4.5cqw;
+          }
+        }
       }
     }
   }
