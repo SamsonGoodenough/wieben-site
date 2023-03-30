@@ -1,6 +1,30 @@
 {
   "albums": [
     {
+      "title": "Pearl and Hermes Atoll",
+      "artist": "Song, Mixing, Mastering",
+      "link": "",
+      "image": "https://source.unsplash.com/random?music"
+    },
+    {
+      "title": "Josie Jones - Sam Hansell",
+      "artist": "Production, Mixing, Mastering",
+      "link": "",
+      "image": "https://source.unsplash.com/random?guitar"
+    },
+    {
+      "title": "Guilty Pleasure (Remix) - Ariana Fig",
+      "artist": "Mixing, Mastering",
+      "link": "",
+      "image": "images/guilty_pleasure.png"
+    },
+    {
+      "title": "Last Dance in December - Sam Hansell",
+      "artist": "Production, Mixing, Mastering",
+      "link": "",
+      "image": "https://source.unsplash.com/random?mic"
+    },
+    {
       "title": "Soul Power - James Brown",
       "artist": "Mixing & Mastering",
       "link": "https://www.youtube.com/watch?v=3Ze5E41TTJ0",
