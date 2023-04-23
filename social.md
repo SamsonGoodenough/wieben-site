@@ -4,7 +4,7 @@ permalink: /social/
 description: Who is Wieben?
 
 title: Wieben
-subtitle: Master of Mixing and Mastering
+subtitle: Music Producer and Sound Engineer
 profile_image: images/pfp.jpeg
 
 social_bars:
