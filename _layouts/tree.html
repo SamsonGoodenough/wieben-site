@@ -9,7 +9,7 @@ layout: default_stripped
       <img src="{{ page.profile_image | relative_url }}" alt="{{ page.title }}">
     </figure>
     {% endif %}
-    <h1 class="tree-title">{{page.title}}</h1>
+    <h1 class="tree-title"><a href="/">{{page.title}}</a></h1>
     {% if page.subtitle and page.subtitle != "" %}
     <h4 class="tree-subtitle">{{page.subtitle}}</h4>
     {% endif %}
