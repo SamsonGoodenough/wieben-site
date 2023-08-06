@@ -34,8 +34,8 @@ navigation:
     url: /about/
   - text: Mixing & Mastering
     url: /mixing-mastering/
-  # - text: Blog
-  #   url: /blog/
+  - text: Blog
+    url: /blog/
 
 # Colors
 accent_color: '#b3b377'
