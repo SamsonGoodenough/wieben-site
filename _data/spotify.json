@@ -1,22 +1,22 @@
 {
   "albums": [
     {
+      "title": "Awareness - Wieben",
+      "artist": "Songs, Mixing, Mastering",
+      "link": "https://wieben.bandcamp.com/wieben",
+      "image": "images/awareness_cover.png"
+    },
+    {
+      "title": "Inopia - Sam Hansell",
+      "artist": "Production, Mixing, Mastering",
+      "link": "",
+      "image": "images/josiejones.png"
+    },
+    {
       "title": "Pearl and Hermes Atoll",
       "artist": "Song, Mixing, Mastering",
       "link": "https://wieben.bandcamp.com/track/pearl-and-hermes-atoll",
       "image": "images/pearlatoll2.png"
-    },
-    {
-      "title": "Josie Jones - Sam Hansell",
-      "artist": "Production, Mixing, Mastering",
-      "link": "https://youtu.be/zGwufypc17E",
-      "image": "images/josiejones.png"
-    },
-    {
-      "title": "Guilty Pleasure (Remix) - Ariana Fig",
-      "artist": "Mixing, Mastering",
-      "link": "https://youtu.be/y5elT5WQFj8",
-      "image": "images/guilty_pleasure.png"
     },
     {
       "title": "Soul Power (Remix) - James Brown",
