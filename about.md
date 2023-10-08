@@ -10,6 +10,6 @@ Wieben has a fascination for the history of recorded music. He shares in the lat
 
 **His debut album, *Awareness*, is an excersize in improvisation.**  Inspired by records like *Saucerful of Secrets* by Pink Floyd and *On The Corner* by Miles Davis, *Awareness* was conceived live in the studio, and edited down into its best parts.  Written with percussionist and friend Manuel Thomas, this record has a strong emphasis on rhythm and groove.  Each track features multiple layers of percussion instruments, drawing also from spiritual jazz and Brazilian tropicalia.  *Awareness* perseveres in an economy that pressures bands to get smaller and less experimental.  If you enjoy music that may be unorthodox, Wieben's debut album might be what you need.  [Read more on the thought process behind *Awareness* on his blog.](wieben.ca/awareness)
 
-Wieben is currently finishing up a BA in Popular Music Studies at Western University.  **He gigs regularly in the London area, most notably as the guitarist in funk fusion band [Juice Joint](https://www.instagram.com/juicejointband/).**  He is also an advisor on all things sound at Village Green Church.  He is always open to working with new people and contributing to his local music scene in Southwestern Ontario.
+Wieben is currently finishing up a BA in Popular Music Studies at Western University.  **He gigs regularly in the London area, most notably as a guitarist in funk fusion band [Juice Joint](https://www.instagram.com/juicejointband/).**  He is also an advisor on all things sound at Village Green Church.  He is always open to working with new people and contributing to his local music scene in Southwestern Ontario.
 
-*Thank You for reading!*
+*Thank you for reading!*
