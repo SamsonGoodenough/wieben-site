@@ -2,19 +2,25 @@
   "albums": [
     {
       "title": "Awareness - Wieben",
-      "artist": "Songs, Mixing, Mastering",
+      "artist": "Album Coming Soon",
       "link": "https://wieben.bandcamp.com/",
       "image": "images/awareness_cover.png"
     },
     {
+      "title": "Stations - Wieben",
+      "artist": "Song, Engineering",
+      "link": "https://www.youtube.com/watch?v=23DvwVEnya0&lc=UgyAQWsufwzIHkDLcmJ4AaABAg",
+      "image": "images/stations_cover.png"
+    },
+    {
       "title": "Inopia - Sam Hansell",
-      "artist": "Ex. Production, Mixing",
+      "artist": "Production, Mixing",
       "link": "https://samhansell.bandcamp.com/",
       "image": "images/inopia_cover.png"
     },
     {
       "title": "Pearl and Hermes Atoll",
-      "artist": "Song, Mixing, Mastering",
+      "artist": "Song, Engineering",
       "link": "https://wieben.bandcamp.com/track/pearl-and-hermes-atoll",
       "image": "images/pearlatoll2.png"
     },
