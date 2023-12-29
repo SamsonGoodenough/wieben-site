@@ -7,7 +7,7 @@ feature_image: images/ritual_cover.png
 tags: [reviews]
 ---
 
->**Score:** 8/10<br>
+>**Score:** 7/10<br>
 >**Genre:** Jazz Rap, Psychedelia<br>
 >**Year:** 2023
 
