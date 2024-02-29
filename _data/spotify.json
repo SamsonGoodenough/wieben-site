@@ -1,14 +1,14 @@
 {
   "albums": [
     {
-      "title": "Awareness - Wieben",
-      "artist": "Album Coming Soon",
-      "link": "https://wieben.bandcamp.com/",
-      "image": "images/awareness_cover.png",
-      "color": "#181818"
+    "title": "Juice Joint - S/T",
+    "artist": "Guitar, Assistant Mixing",
+    "link": "https://www.instagram.com/juicejointband/",
+    "image": "images/juice_joint_logo.png",
+    "color": "#ec8117"
     },
     {
-      "title": "Stations - Wieben",
+      "title": "Stations",
       "artist": "Song, Engineering",
       "link": "https://www.youtube.com/watch?v=23DvwVEnya0&lc=UgyAQWsufwzIHkDLcmJ4AaABAg",
       "image": "images/stations_cover.png",
@@ -22,6 +22,13 @@
       "color": "#da363c"
     },
     {
+      "title": "This Christmas / Grown-Up Christmas List - NESS",
+      "artist": "Guitar",
+      "link": "https://open.spotify.com/album/636XQbZGMVJ3rc4za8KkZU?si=U5l4T2wOQUu9i1gYzStPdw",
+      "image": "images/ness_christmas.jpg",
+      "color": "#7b2e28"
+    },
+    {
       "title": "Pearl and Hermes Atoll",
       "artist": "Song, Engineering",
       "link": "https://wieben.bandcamp.com/track/pearl-and-hermes-atoll",
@@ -29,11 +36,11 @@
       "color": "#837c7a"
     },
     {
-      "title": "Soul Power (Remix) - James Brown",
-      "artist": "Mixing & Mastering",
-      "link": "https://www.youtube.com/watch?v=3Ze5E41TTJ0",
-      "image": "images/soulpower_suqre.png",
-      "color": "#1c1c1c"
+    "title": "Theology Jam Podcast",
+    "artist": "Music, Graphics, Guest",
+    "link": "https://podcasters.spotify.com/pod/show/theology-jam",
+    "image": "images/theology_jam_cover.jpg ",
+    "color": "#4c4498"
     }
   ]
 }
