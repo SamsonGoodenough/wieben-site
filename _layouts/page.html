@@ -10,6 +10,8 @@ layout: default
       <figure class="post-thumbnail image-card width-wide">
         <img src="{{ page.feature_image | relative_url }}" alt="{{ page.title }}">
       </figure><!-- .post-thumbnail -->
+      {% elsif page.carousels %}
+        {% include carousel.html height="100" unit="%" number="1" %}
       {% endif %}
     </header><!-- .post-header -->
     <div class="post-content">

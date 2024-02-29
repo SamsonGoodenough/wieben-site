@@ -3,7 +3,22 @@ layout: page
 title: About Wieben
 permalink: /about/
 description: Who is Wieben?
-feature_image: images/solo_cover.jpeg
+carousels:
+  - images:
+      - image: /images/gallery1.jpeg
+        credit: '@notbenjanssen'
+        link: https://www.instagram.com/notbenjanssen/
+      - image: /images/gallery2.png
+        credit: '@mikalynmusic'
+        link: https://www.instagram.com/mikalynmusic/
+        textColor: '#24071c'
+      - image: /images/gallery3.jpeg
+      - image: /images/gallery4.jpeg
+        credit: '@arnold.milla.raffoul'
+        link: https://www.instagram.com/arnold.milla.raffoul/
+      - image: /images/gallery5.jpeg
+        credit: '@_chloejpg'
+        link: https://www.instagram.com/_chloejpg/
 ---
 
 Wieben has a fascination for the history of recorded music. He shares in the late 1960s mentality of 'using the studio as an instrument', inspired by legends like George Martin and Teo Macero.  Wieben likes his music sounding raw and disorienting.  Heavy saturation, mono reverbs, and hard panning are part of what makes a Wieben production.  This style suits jazz, rock, soul, and hip hop, where the boldness of the mix can compliment confident, dynamic musicianship.  He brings creativity and attention-to-detail to every level of the production process.  **Wieben believes great songs are made when each step, no matter how technical, is working for the glory of the music.**

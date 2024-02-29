@@ -41,6 +41,12 @@ a {
   }
 }
 
+// class that removes text decor
+.no-text-decor a {
+  text-decoration: none;
+  color: #fff;
+}
+
 h1,
 h2,
 h3,
