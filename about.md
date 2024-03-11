@@ -12,8 +12,8 @@ carousels:
         link: https://www.instagram.com/mikalynmusic/
         textColor: '#24071c'
       - image: /images/gallery4.jpeg
-        credit: '@arnold.milla.raffoul'
-        link: https://www.instagram.com/arnold.milla.raffoul/
+        credit: 
+        link: 
       - image: /images/gallery5.jpeg
         credit: '@_chloejpg'
         link: https://www.instagram.com/_chloejpg/
