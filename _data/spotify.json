@@ -1,6 +1,13 @@
 {
   "albums": [
     {
+      "title": "The Sleepwalk Sessions",
+      "artist": "Music, Engineering",
+      "link": "https://wieben.bandcamp.com/",
+      "image": "images/sleepwalk_cover.png",
+      "color": "#040404"
+      },
+      {
     "title": "Juice Joint - S/T",
     "artist": "Guitar, Mixing",
     "link": "https://www.instagram.com/juicejointband/",
@@ -10,7 +17,7 @@
     {
       "title": "Stations",
       "artist": "Song, Engineering",
-      "link": "https://www.youtube.com/watch?v=23DvwVEnya0&lc=UgyAQWsufwzIHkDLcmJ4AaABAg",
+      "link": "https://wieben.bandcamp.com/track/stations",
       "image": "images/stations_cover.png",
       "color": "#691e9f"
     },
@@ -20,13 +27,6 @@
       "link": "https://samhansell.bandcamp.com/",
       "image": "images/inopia_cover_small.png",
       "color": "#da363c"
-    },
-    {
-      "title": "This Christmas / Grown-Up Christmas List - NESS",
-      "artist": "Guitar",
-      "link": "https://open.spotify.com/album/636XQbZGMVJ3rc4za8KkZU?si=U5l4T2wOQUu9i1gYzStPdw",
-      "image": "images/ness_christmas.jpg",
-      "color": "#7b2e28"
     },
     {
       "title": "Pearl and Hermes Atoll",
