@@ -12,7 +12,7 @@ lang: en-US
 title: "Wieben"
 
 # A description of your site for meta tag, search engine results.
-description: "Mixing and mastering services by Wieben"
+description: "Music production, mixing, and mastering services by Wieben"
 
 # The subpath of your site, e.g. /blog, for generating urls.
 baseurl: ""
@@ -32,8 +32,8 @@ navigation:
     url: /
   - text: About
     url: /about/
-  - text: Mixing & Mastering
-    url: /mixing-mastering/
+  - text: Production
+    url: /production/
   - text: Blog
     url: /blog/
 
