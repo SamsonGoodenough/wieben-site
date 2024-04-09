@@ -4,12 +4,10 @@ permalink: /social/
 description: Who is Wieben?
 
 title: Wieben
-subtitle: Music Producer and Sound Engineer
-profile_image: images/pfp.jpeg
+subtitle: Artist and Mix Engineer
+profile_image: images/pfp.png
 
 social_bars:
-  - name: New Song
-    link: https://www.youtube.com/watch?v=tPdawyRYiHk
   - name: Bandcamp
     link: https://wieben.bandcamp.com/
   - name: Spotify
