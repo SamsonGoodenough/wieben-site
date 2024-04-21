@@ -1,18 +1,18 @@
 {
   "albums": [
     {
-      "title": "Moonbugs",
+      "title": "Moonbugs - Coming Soon",
       "artist": "Music, Engineering",
       "link": "https://wieben.bandcamp.com/",
       "image": "images/sleepwalk_cover.png",
       "color": "#040404"
       },
       {
-    "title": "Juice Joint - S/T",
+    "title": "Juice Joint - May 3rd",
     "artist": "Guitar, Mixing",
-    "link": "https://www.instagram.com/juicejointband/",
+    "link": "https://juicejointband.bandcamp.com/",
     "image": "images/juice_joint_cover.png",
-    "color": ""
+    "color": "#418dcb"
     },
     {
       "title": "Stations",
