@@ -6,7 +6,7 @@ carousels:
   - images:
       - image: /images/gallery1.jpeg
         credit: '@n8kain'
-        link: https://www.instagram.com/@n8kain/
+        link: https://www.instagram.com/n8kain/
       - image: /images/gallery2.png
         credit: '@mikalynmusic'
         link: https://www.instagram.com/mikalynmusic/
