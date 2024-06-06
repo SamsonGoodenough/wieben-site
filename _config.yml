@@ -32,8 +32,8 @@ navigation:
     url: /
   - text: About
     url: /about/
-  - text: Production
-    url: /production/
+  - text: Services
+    url: /services/
   - text: Blog
     url: /blog/
 
