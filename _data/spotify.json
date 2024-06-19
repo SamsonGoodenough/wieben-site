@@ -2,42 +2,42 @@
   "albums": [
     {
       "title": "Crushed to Meet You - Superstar Crush",
-      "artist": "Co-Production, Mixing",
+      "artist": "Mixing",
       "link": "https://open.spotify.com/album/3QcSK8wk9mPmWxcF7G7UKM?si=KFaL4VrURfOkuxmoQX9Qtw",
       "image": "images/crush_cover.png",
       "color": "#ed6974"
       },
       {
     "title": "Juice Joint - ST",
-    "artist": "Guitar, Mixing",
+    "artist": "Guitar and Mixing",
     "link": "https://juicejointband.bandcamp.com/album/juice-joint-cassette-version",
     "image": "images/juice_joint_cover.png",
     "color": "#418dcb"
     },
     {
       "title": "Stations",
-      "artist": "Song, Engineering",
+      "artist": "Solo Assignment",
       "link": "https://wieben.bandcamp.com/track/stations",
       "image": "images/stations_cover.png",
       "color": "#691e9f"
     },
     {
       "title": "Inopia - Sam Hansell",
-      "artist": "Production, Engineering",
+      "artist": "Exec. Production and Engineering",
       "link": "https://samhansell.bandcamp.com/",
       "image": "images/inopia_cover_small.png",
       "color": "#da363c"
     },
     {
       "title": "Pearl and Hermes Atoll",
-      "artist": "Song, Engineering",
+      "artist": "Solo Assignment",
       "link": "https://wieben.bandcamp.com/track/pearl-and-hermes-atoll",
       "image": "images/pearlatoll2.png",
       "color": "#837c7a"
     },
     {
     "title": "Theology Jam Podcast",
-    "artist": "Music, Graphics, Guest",
+    "artist": "Music, Graphics, and Guest",
     "link": "https://podcasters.spotify.com/pod/show/theology-jam",
     "image": "images/theology_jam_cover.jpg ",
     "color": "#4c4498"
