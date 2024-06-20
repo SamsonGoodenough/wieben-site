@@ -16,8 +16,8 @@ Live Sound (including multitrack recording!), session guitar or bass, mixing, en
 **Guitar:**<br>
 *Wieben Custom Electric*<br>
 *Fender Deluxe Tube Amp*<br>
-*Squire P-Bass*<br>
-*Squire Fretless Jazz Bass*<br>
+*P-Bass*<br>
+*Fretless Electric J-Bass*<br>
 *Crybaby Wah-Wah Classic*<br>
 *Fuzzface Mini Silicon*<br>
 *Earthquaker Rainbow Machine*<br>

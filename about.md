@@ -18,7 +18,7 @@ description: What is Wieben?
        # credit: '@_chloejpg'
         #link: https://www.instagram.com/_chloejpg/
 ---
-I fell in love with music at the age of 13 when I stopped taking guitar lessons.  Once I discovered how to teach myself, the world of music production opened up to me.  I started listening (a lot), and immersing myself in music as an art form.  I bring a level of creativity and attention-to-detail to music that you can only gain through first-hand experience.  **I believe that great songs are made when each step, no matter how technical, is working for the glory of the music.**
+I fell in love with music at the age of 13 when I stopped taking guitar lessons.  Once I discovered how to teach myself, the world of music production opened up to me.  I started listening (a lot), and immersing myself in recorded music as an art form.  Inspired by legendary producers like Slauson Malone, Teo Macero, and my mentor at Western Jay Hodgeson, **I believe that great songs are made when each step, no matter how technical, is working for the glory of the music.**
 
 Wieben is my brand.  I created Wieben so I wouldn't have to depend on labels and studios to create.  It's not a pseudonym, but a **one-man company that puts art above profit**.  Based in London, Ontario, Wieben is focused on the ethical provision of audio services for artists.  I like to focus on everything technical— mixing (live or in the studio), recording, producing— and doing so at a flat rate without taking royalties.  
 
