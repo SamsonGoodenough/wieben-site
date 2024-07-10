@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /about/
-description: What is Wieben?
+description: About Aiden Wiebe
 #carousels:
  # - images:
   #    - image: /images/gallery1.jpeg
@@ -19,8 +19,6 @@ description: What is Wieben?
         #link: https://www.instagram.com/_chloejpg/
 ---
 I fell in love with music at the age of 13 when I stopped taking guitar lessons.  Once I discovered how to teach myself, the world of music production opened up to me.  I started listening (a lot), and immersing myself in recorded music as an art form.  Inspired by legendary producers like Slauson Malone, Teo Macero, and my university mentor Jay Hodgson, **I believe that great songs are made when each step, no matter how technical, is working for the glory of the music.**
-
-Wieben is my brand.  I created Wieben so I wouldn't have to depend on labels and studios to create.  It's not a pseudonym, but a **one-man company that puts art above profit**.  Based in London, Ontario, Wieben is focused on the ethical provision of audio services for artists.  I like to focus on everything technical— mixing (live or in the studio), recording, event-planning, producing— and doing so at a flat rate without taking royalties.  
 
 I dedicate myself passionately to my local music scene here in London.  Within one year of joining funk-fusion band **[Juice Joint](https://www.instagram.com/juicejointband/)**, we've already been asked to perform at **Sunfest** and **Aeolian Jazz Festival**, and to record at EMAC and OIART studios.  Modeled off the jazz scene in Toronto, **Juice Joint** also created a 'no-barriers' jam night at The Poacher's Arms called **Juice Jams**.  On a biweekly basis, we bring together dozens of instrumentalists and vocalists across the jazz, latin, and hip hop communities in the city.  
 
