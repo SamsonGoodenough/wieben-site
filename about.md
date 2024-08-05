@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /about/
-description: What is Wieben?
+description: About Aiden Wiebe
 #carousels:
  # - images:
   #    - image: /images/gallery1.jpeg
