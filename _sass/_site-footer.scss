@@ -34,6 +34,7 @@
   -webkit-transition: .3s ease;
   transition: .3s ease;
   &:hover {
+    color: _palette(accent);
     text-decoration: none;
   }
 }

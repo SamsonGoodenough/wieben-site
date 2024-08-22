@@ -1,21 +1,21 @@
 {
   "albums": [
     {
-      "title": "Crushed to Meet You - Superstar Crush",
+      "title": "Crushed to Meet You",
       "artist": "Co-mixing",
       "link": "https://open.spotify.com/album/3QcSK8wk9mPmWxcF7G7UKM?si=KFaL4VrURfOkuxmoQX9Qtw",
       "image": "images/crush_cover.png",
       "color": "#ed6974"
       },
       {
-    "title": "Juice Joint - ST",
+    "title": "Juice Joint",
     "artist": "Guitarist and Co-mixing",
     "link": "https://juicejointband.bandcamp.com/album/juice-joint-cassette-version",
     "image": "images/juice_joint_cover.png",
     "color": "#418dcb"
     },
     {
-      "title": "Inopia - Sam Hansell",
+      "title": "Inopia",
       "artist": "Exec. Production and Engineering",
       "link": "https://samhansell.bandcamp.com/",
       "image": "images/inopia_cover_small.png",

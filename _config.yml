@@ -28,17 +28,17 @@ google_analytics: ""
 
 # Site navigation - each item must have a title and a url.
 navigation:
-  - text: Home
+  - text: Portfolio
     url: /
-  - text: About
+  - text: About Me
     url: /about/
-  - text: Services
+  - text: Services / Gear
     url: /services/
-  - text: Blog
+  - text: Content
     url: /blog/
 
 # Colors
-accent_color: '#7c7c54'
+accent_color: '#60607a'
 
 # Site footer
 footer:
