@@ -333,8 +333,8 @@ video {
   &:hover,
 	&:focus,
 	&:active {
-		border-color: _palette(bg);
-    color: _palette(bg);
+		border-color: _palette(accent);
+    color: _palette(accent);
 		outline: 0;
 	}
 }
