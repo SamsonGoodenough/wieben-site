@@ -43,6 +43,7 @@
 }
 
 .menu {
+  color: _palette(bg);
   list-style: none;
   margin: 0;
   padding: 0;
@@ -52,7 +53,7 @@
   display: inline-block;
   margin: 0 0 0 15px;
   a {
-    color: _palette(meta);
+    color: _palette(primary);
     display: inline-block;
     font-size: 0.88889rem;
     font-weight: bold;
@@ -106,7 +107,7 @@
 
   .site-navigation {
     -webkit-overflow-scrolling: touch;
-    background: #fff;
+    background: _palette(bg);
     bottom: 0;
     left: 0;
     margin: 0;
