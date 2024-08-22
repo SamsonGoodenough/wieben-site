@@ -11,7 +11,7 @@ textarea {
 }
 
 html {
-  border: 15px solid _palette(accent);
+  border: 15px solid _palette(bg);
   box-sizing: border-box;
 
   @media only screen and (max-width: 600px) {
@@ -333,8 +333,8 @@ video {
   &:hover,
 	&:focus,
 	&:active {
-		border-color: _palette(accent);
-    color: _palette(accent);
+		border-color: _palette(bg);
+    color: _palette(bg);
 		outline: 0;
 	}
 }
