@@ -7,8 +7,8 @@ feature_image: images/aethiopes_cover.png
 tags: [reviews]
 ---
 
->**Score:** 8/10<br>
->**Genre:** Hip Hop<br>
+>**Best Tracks:** Smith and Cross, Asylum<br>
+>**Genre:** Experimental Hip Hop<br>
 >**Year:** 2022
 
 Up until this album, I never considered myself a fan of Billy Woods. He has always been a really good rapper, and I like the dirty, introspective, vintage hip hop sound he does. Even still, most of his previous work didn't really captivate me. It wasn't until *Brass* in 2020 that I felt Billy Woods had become someone special. Then he did it again on *Call me When You're Outside* by Steel Tipped Dove. *Aethiopes* is the third album to me that finally cements Billy Woods as one of the most creative rappers making music today.
