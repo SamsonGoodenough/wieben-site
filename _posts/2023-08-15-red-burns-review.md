@@ -7,8 +7,8 @@ feature_image: images/red_burns_cover.png
 tags: [reviews]
 ---
 
->**Score:** 10/10<br>
->**Genre:** Neo Soul, Experimental<br>
+>**Best Tracks:** The whole thing<br>
+>**Genre:** Post Jazz, Experimental<br>
 >**Year:** 2017
 
 The most intricate album I've ever heard.  *Red Burns* is structured like a continuous story, fading between tracks like scenes of a documentary.  The story feels like the account of an American folklorist exploring New York.  *Red Burns* visits a wide variety of African and Latin American genres to paint a picture of the African Diaspora living in New York today.  The album is led by a rotating cast of musicians, artists, and poets.  *Red Burns* comes together as a collage of the personal histories and cultural identities of each of its artists.  

@@ -7,15 +7,13 @@ feature_image: images/mood_valiant_cover.png
 tags: [reviews]
 ---
 
->**Score:** 9/10<br>
->**Genre:** Progressive Soul<br>
+>**Best Tracks:** Get Sun, Sparkle Tape Break Up, Red Room, Rose Water<br>
+>**Genre:** Progressive Neo Soul<br>
 >**Year:** 2021
 
-I tend to perfer older music, so I don't usually find myself on the edge of my seat waiting for an album to drop. I love the experience of digging through forumns and personnel lists, in search of great records of decades ago.  *Mood Valiant* has been an exception. Ever since I heard Hiatus Kaiyote's first two albums, I've been anticipating a follow-up. I have never been this excited for an album release, and the payoff was definitely worth it.
+Ever since I heard Hiatus Kaiyote's first two albums, I've been anticipating a follow-up. I have never been this excited for an album release, and the payoff was definitely worth it. Unlike their last project, which was focused on complex electronic synth work, *Mood Valiant* is a warm exploration through a tropical setting of birds and flowers. "Get Sun" nails this vibe with a strong inspiration from MPB (música popular Brasileira), especially due to Arthur Verocai's string and horn arrangement. The offbeat acoustic guitar part takes a lot of inspiration from Brazillian music too. There are many other similarities to be made here, from the intricacies of Clever Austin's drumming to the faint cuica at the end, but the song is so dense it would take forever to describe everything going on. Ever since I heard it as the lead single, "Get Sun" has become, in my opinion, Hiatus Kaiyote's best song to date. The opener, "Flight of the Tiger Lily", also repurposes Verocai's arangements into a twisting, humid landscape, setting the mood for the rest of the album.
 
 <!--more-->
-
-Unlike their last, which was focused on complex electronic synth work, *Mood Valiant* is a warm exploration through a tropical setting of birds and flowers. "Get Sun" nails this vibe with a strong inspiration from MPB (música popular Brasileira), especially due to Arthur Verocai's string and horn arrangement. The offbeat acoustic guitar part takes a lot of inspiration from Brazillian music too. There are many other similarities to be made here, from the intricacies of Clever Austin's drumming to the faint cuica at the end, but the song is so dense it would take forever to describe everything going on. Ever since I heard it as the lead single, "Get Sun" has become, in my opinion, Hiatus Kaiyote's best song to date. The opener, "Flight of the Tiger Lily", also repurposes Verocai's arangements into a twisting, humid landscape, setting the mood for the rest of the album.
 
 The thing Hiatus Kaiyote does best is layers. All across *Mood Valiant*, Nai's vocals pile on top of each other, supported by unique, vintage synths that sound as if they are mimicking her unique tone of voice. Heavy amounts of tape saturation turn the record into a hot accumulation of instruments and sound effects. The sound design on *Mood Valiant* is extraordinary, somehow consolidating dozens of distinct sounds and instruments into gorgeous songs, all without devolving into noise.
 

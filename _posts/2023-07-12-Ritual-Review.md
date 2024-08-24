@@ -7,7 +7,7 @@ feature_image: images/ritual_cover.png
 tags: [reviews]
 ---
 
->**Score:** 7/10<br>
+>**Best Tracks:** Cost of Business, Yah's Shorthand, Uknowhut?<br>
 >**Genre:** Jazz Rap, Psychedelia<br>
 >**Year:** 2023
 
@@ -15,7 +15,7 @@ Another concise and consistent rapper & producer project to come out of the 2020
 
 <!--more-->
 
-The production on this album spends most of its time exploring vintage distortions and feedback. It doesn't worry about sounding unpolished in the best way possible. For example, the noisy transition from "The Cost of Business" into the piano solo of "Rob Peter, Pay Pallbearer" is incredible, especially for a hip-hop album in 2023. On the other hand, this album doesn't only look to the past. "Service" and "President Streets" have beats and deliveries that remind me of Run the Jewels, and other cutting-edge hardcore hip hop. It is so refreshing to hear these kinds of instrumentals mixed in this psychedelic style. There's nothing out there that sounds quite like it.
+The production on this album spends most of its time exploring vintage distortions and feedback. It doesn't worry about sounding unpolished in the best way possible. The way that the production carries the energy from "The Cost of Business" into the piano solo of "Rob Peter, Pay Pallbearer" is incredible. This album doesn't only look to the past, though. "Service" and "President Streets" have beats and deliveries that remind me of Run the Jewels, and other cutting-edge hardcore hip hop. It is so refreshing to hear these kinds of instrumentals mixed in this psychedelic style. There's nothing out there that sounds quite like it.
 
 *Ritual* is also the perfect album length, not overstaying its welcome. The sequencing is fantastic too. Similar tracks are paired together to create a gradual fade from soulful, to experimental, to hardcore across the album's runtime. "The Forgotten" is my favourite kind of closing track, climaxing to such heights that you're left there in awe after the track fades out.
 
