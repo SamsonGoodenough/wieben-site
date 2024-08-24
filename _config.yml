@@ -9,10 +9,10 @@
 lang: en-US
 
 # Site title
-title: "Aiden Wiebe"
+title: "wieben"
 
 # A description of your site for meta tag, search engine results.
-description: "Music production, mixing, and mastering services by Wieben"
+description: "Music reviews, mixing and mastering services by Aiden Wiebe"
 
 # The subpath of your site, e.g. /blog, for generating urls.
 baseurl: ""
