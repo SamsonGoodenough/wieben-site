@@ -4,8 +4,8 @@ permalink: /social/
 description: Who is Wieben?
 
 title: Wieben
-subtitle: Artist and Mix Engineer
-profile_image: images/pfp.png
+subtitle: Sonic escapism
+profile_image: images/fractal_cropped.png
 
 social_bars:
   - name: Bandcamp
@@ -23,7 +23,7 @@ social_circles:
   - icon: fa-youtube
     link: https://youtube.com/@wiebenmusic
   - icon: fa-instagram
-    link: https://www.instagram.com/wiebenmusic/
+    link: https://www.instagram.com/aidengwiebe/
   - icon: fa-twitter
     link: https://twitter.com/AidenWiebe
 

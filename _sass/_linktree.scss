@@ -29,10 +29,11 @@
       font-size: 1.5rem;
       font-weight: 700;
       margin-bottom: 0.5rem;
+      color: _palette(primary);
     }
 
     .tree-subtitle {
-      color: #666;
+      color: _palette(primary);
       font-size: 0.875rem;
       font-weight: 400;
       margin-top: 0;
@@ -60,7 +61,7 @@
       padding: 0.5rem 1rem;
       text-align: center;
 
-      border: 3px solid #B3B377;
+      border: 3px solid _palette(meta);
       border-radius: 16px;
       width: 75%;
 
@@ -69,10 +70,11 @@
       }
 
       text-decoration: none;
+      color: _palette(primary);
     }
 
     .tree-bar:hover {
-      background-color: #B3B377;
+      background-color: _palette(accent);
       transition: background-color 0.5s ease;
     }
 
@@ -97,7 +99,7 @@
         padding: 0.5rem;
         text-align: center;
 
-        border: 3px solid #B3B377;
+        border: 3px solid _palette(meta);
         border-radius: 50%;
         width: 2rem;
         height: 2rem;
@@ -112,12 +114,13 @@
           padding: 0;
 
           text-decoration: none;
+          color: _palette(primary);
         }
         
       }
 
       .tree-circle:hover {
-        background-color: #B3B377;
+        background-color: _palette(accent);
         transition: background-color 0.5s ease;
 
         a {
