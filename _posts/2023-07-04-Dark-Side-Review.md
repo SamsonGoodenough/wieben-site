@@ -11,7 +11,7 @@ tags: [reviews]
 >**Genre:** Rock, Psychedelia<br>
 >**Year:** 1973
 
-I don't think there's a such thing as a perfect album, but *Dark Side of the Moon* is my favourite. Grand, conceptual themes come at the cost of having weaker moments. The noisy transition into "Time", the repetitiveness of "Us and Them". Pink Floyd could have focused on making each track equally as strong as the last, but that would have deprived the album of its dynamics and its incredible ending.
+*Dark Side of the Moon* was, for a very long time, the best album I had ever heard. But even though I consider it perfect, it is not without its lowlights.  Grand, conceptual themes come at the cost of having weaker moments: the annoying transition into "Time", the repetitiveness of "Us and Them". Pink Floyd could have focused on making each track equally as strong as the last, but that would have deprived the album of its dynamics and its incredible ending.
 
 <!--more-->
 
@@ -19,4 +19,4 @@ I don't think there's a such thing as a perfect album, but *Dark Side of the Moo
 
 On top of this, the production and mixing is probably the best I've ever heard. The way the keyboard and rhythm guitar are juxtaposed on opposite sides of the stereo calls attention to the subtlest details of the band's performance. *Dark Side of the Moon* also doesn't shy away from bold post-production effects, adding an extra layer to the album for me to appreciate. And unlike psychedelic rock proper, these effects are used sparingly and only when it serves the performance.
 
-There are countless more factors that make *Dark Side of the Moon* what it is, but those are the ones I appreciate the most. *Dark Side* is one of the most picked-apart pieces of music in human history, and one could spend hours describing the intricacies of every lyric and every solo. This album has something for everyone, and for me, that's its sequencing, production, and ambition.
+There are countless more factors that make *Dark Side of the Moon* what it is, but those are the ones I appreciate the most. *Dark Side* is one of the most picked-apart pieces of music in human history, and one could spend hours describing the meaning behind every lyric, and the intricacies of every solo. This album has something for everyone, and for me, that's its sequencing, production, and ambition.
