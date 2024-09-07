@@ -24,7 +24,5 @@ social_circles:
     link: https://open.spotify.com/artist/1uHLvgQukqCPrUSrrhctOK?si=IUCDvvvFTDeSY5kYh8ZZig
   - icon: fa-instagram
     link: https://www.instagram.com/aidengwiebe/
-  - icon: fa-twitter
-    link: https://twitter.com/AidenWiebe
 
 ---
