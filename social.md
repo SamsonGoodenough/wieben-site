@@ -20,7 +20,7 @@ social_bars:
 social_circles:
   - icon: fa-youtube
     link: https://youtube.com/@wiebenmusic
-  - icon: fa-spotify
+  - icon: fa-br-spotify
     link: https://open.spotify.com/artist/1uHLvgQukqCPrUSrrhctOK?si=IUCDvvvFTDeSY5kYh8ZZig
   - icon: fa-instagram
     link: https://www.instagram.com/aidengwiebe/
