@@ -10,18 +10,18 @@ profile_image: images/fractal_cropped.png
 social_bars:
   - name: Bandcamp
     link: https://wieben.bandcamp.com/
-  - name: Spotify
-    link: https://open.spotify.com/artist/1uHLvgQukqCPrUSrrhctOK?si=IUCDvvvFTDeSY5kYh8ZZig
-  - name: Apple Music
-    link: https://music.apple.com/ca/artist/wieben/1682350520
-  - name: Tidal
-    link: https://tidal.com/artist/38789505
-  - name: Amazon Music
-    link: https://music.amazon.ca/artists/B0C2GJC9GD?ref=dm_sh_vuazhMQ8zMeRAYKL7U51jMqTx
+  - name: Written Content
+    link: https://wieben.ca/blog/
+  - name: Portfolio
+    link: https://wieben.ca/
+  - name: Contact
+    link: mailto:aidengwiebe@gmail.com
 
 social_circles:
   - icon: fa-youtube
     link: https://youtube.com/@wiebenmusic
+  - icon: fa-spotify
+    link: https://open.spotify.com/artist/1uHLvgQukqCPrUSrrhctOK?si=IUCDvvvFTDeSY5kYh8ZZig
   - icon: fa-instagram
     link: https://www.instagram.com/aidengwiebe/
   - icon: fa-twitter
