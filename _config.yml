@@ -34,7 +34,7 @@ navigation:
     url: /about/
   - text: Services / Gear
     url: /services/
-  - text: Content
+  - text: Blog
     url: /blog/
 
 # Colors
