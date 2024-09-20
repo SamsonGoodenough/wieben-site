@@ -1,10 +1,10 @@
 ---
 layout: tree
 permalink: /social/
-description: Who is Wieben?
+description: links! 
 
-title: Wieben
-subtitle: Sonic escapism
+title: aiden wiebe
+subtitle: recording artist
 profile_image: images/fractal_cropped.png
 
 social_bars:
