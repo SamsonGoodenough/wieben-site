@@ -28,13 +28,13 @@ google_analytics: ""
 
 # Site navigation - each item must have a title and a url.
 navigation:
-  - text: Portfolio
+  - text: portfolio
     url: /
-  - text: About Me
+  - text: about Me
     url: /about/
-  - text: Services / Gear
+  - text: services / gear
     url: /services/
-  - text: Blog
+  - text: bloggy
     url: /blog/
 
 # Colors
