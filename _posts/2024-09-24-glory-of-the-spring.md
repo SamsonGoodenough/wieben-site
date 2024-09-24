@@ -2,8 +2,8 @@
 layout: post
 title: "The Glory of the Spring by Hunter Stull"
 description: "Review of The Glory of the Spring by Hunter Stull"
-date: 2021-03-16
-feature_image: images/mood_valiant_cover.png
+date: 2024-09-24
+feature_image: images/glory_cover.png
 tags: [reviews]
 ---
 
