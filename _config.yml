@@ -30,7 +30,7 @@ google_analytics: ""
 navigation:
   - text: portfolio
     url: /
-  - text: about Me
+  - text: about me
     url: /about/
   - text: services / gear
     url: /services/
