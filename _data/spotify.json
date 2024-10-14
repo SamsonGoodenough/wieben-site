@@ -1,12 +1,6 @@
 {
   "albums": [
-    {
-      "title": "Magnetic Memory Device",
-      "artist": "Music, Post-Production",
-      "link": "https://wieben.bandcamp.com/track/magnetic-memory-device-live-at-von-kuster-hall",
-      "image": "images/magnetic_memory_cover.png",
-      "color": "#222222"
-      },
+  
       {
     "title": "Juice Joint",
     "artist": "Guitarist and Co-mixing",
@@ -28,16 +22,9 @@
     "image": "images/theology_jam_cover.jpg ",
     "color": "#4c4498"
     },
-    {
-      "title": "Stations",
-      "artist": "Music, Engineering",
-      "link": "https://wieben.bandcamp.com/track/stations",
-      "image": "images/stations_cover.png",
-      "color": "#691e9f"
-    },
      { 
     "title": "Crushed to Meet You",
-    "artist": "Co-mixing",
+    "artist": "Mixing",
     "link": "https://open.spotify.com/album/3QcSK8wk9mPmWxcF7G7UKM?si=KFaL4VrURfOkuxmoQX9Qtw",
     "image": "images/crush_cover.png",
     "color": "#ed6974"
