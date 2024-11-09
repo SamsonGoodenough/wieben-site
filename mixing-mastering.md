@@ -5,7 +5,7 @@ permalink: /services/
 description: Production, mixing, session guitar and bass, mastering, tape, lo-fi, multitrack live recording, and more!
 feature_image: images/guitar.png
 ---
-Guitar and bass, engineering, mixing, mastering, and old-school record production (I don't sell beats). Send me a message via [email](mailto:aidengwiebe@gmail.com) or [instagram](https://www.instagram.com/wiebenmusic/) and we'll make it happen.  
+Guitar and bass, engineering, mixing, mastering, and old-school record production (I don't sell beats). Send me a message via [email](mailto:aidengwiebe@gmail.com) or [instagram](https://www.instagram.com/aidengwiebe/) and we'll make it happen.  
 
 **Mics:** <br>
 *AEA R92 Ribbon Microphone*<br>
