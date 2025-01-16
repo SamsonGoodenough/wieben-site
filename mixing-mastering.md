@@ -3,38 +3,13 @@ layout: page
 title: 
 permalink: /services/
 description: Production, mixing, session guitar and bass, mastering, tape, lo-fi, multitrack live recording, and more!
-feature_image: images/guitar.png
+feature_image: 
 ---
-Guitar and bass, engineering, mixing, mastering, and old-school record production (I don't sell beats). Send me a message via [email](mailto:aidengwiebe@gmail.com) or [instagram](https://www.instagram.com/aidengwiebe/) and we'll make it happen.  
+<h4>Traditional record production ($100-$300 per song) </h4>
+I will see your song to completion!  I can critique songwriting, record new parts, book studios and session players, and provide a streaming-ready mix and master.  Price varies depending on the amount of work required of me.  Price is fully negotiable for full-length projects.  
 
-**Mics:** <br>
-*AEA R92 Ribbon Microphone*<br>
-*Avantone CK-7 Large Diaphram Condenser Microphone*<br>
-*Shure SM57*<br>
-*Shure SM58 Beta*<br>
-(can borrow extras for studio drum recording)
+<h4>Singular track ($60 per track)</h4>
+I can write and record guitar, bass, or perc/FX parts for your song.  I also ask for a songwriter credit if my part becomes integral to the song.  
 
-**Recording:**<br>
-*Tascam Series 102i audio interface*<br>
-*Tascam 8p dyna microphone preamp* (total 10 inputs)<br>
-*TEAC 3340 reel to reel*<br>
-*TAYA cassette tape deck*<br>
-*ART compressor preamp*<br>
 
-**Guitar:**<br>
-*Wieben Custom Electric*<br>
-*Fender Deluxe tube amp*<br>
-*Squire P-Bass*<br>
-*Squire fretless J-Bass*<br>
-*Crybaby Wah-Wah Classic*<br>
-*Fuzzface Mini Silicon*<br>
-*Earthquaker Rainbow Machine*<br>
-
-**Drums:**<br>
-*Pearl Igniter snare*<br>
-*Yamaha Stage Custom*<br>
-
-**Software:**<br>
-*Logic Pro*<br>
-*Pro Tools*<br>
-*Soundtoys plugins*<br>
+Send me a message via [email](mailto:aidengwiebe@gmail.com) or [instagram](https://www.instagram.com/aidengwiebe/) and we'll make it happen!!!
