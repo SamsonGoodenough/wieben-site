@@ -1,22 +1,36 @@
 {
   "albums": [
-  
-      {
-    "title": "Juice Joint",
-    "artist": "Guitarist and Co-mixing",
+    
+    {
+      "title": "Sleam EP (2025)",
+      "artist": "Engineering",
+      "link": "",
+      "image": "images/sleam_cover.png",
+      "color": "#1d0341"
+    },
+    {
+    "title": "Juice Joint (2024)",
+    "artist": "Guitar",
     "link": "https://juicejointband.bandcamp.com/album/juice-joint-cassette-version",
     "image": "images/juice_joint_cover.png",
     "color": "#418dcb"
     },
     {
-      "title": "Inopia",
-      "artist": "Exec. Production and Engineering",
-      "link": "https://samhansell.bandcamp.com/",
-      "image": "images/inopia_cover_small.png",
-      "color": "#da363c"
+    "title": "Inopia (2023)",
+    "artist": "Production and Engineering",
+    "link": "https://samhansell.bandcamp.com/",
+    "image": "images/inopia_cover_small.png",
+    "color": "#da363c"
     },
-     { 
-    "title": "Crushed to Meet You",
+    {
+    "title": "Briefcase (2024)",
+    "artist": "Guitar",
+    "link": "https://open.spotify.com/track/6BxHKa9Adb3xxKURG4uVqR?si=6bae6cc96f6e4f61",
+    "image": "images/briefcase_cover.png",
+    "color": "#538347"
+    },
+    { 
+    "title": "Crushed to Meet You (2024)",
     "artist": "Mixing",
     "link": "https://open.spotify.com/album/3QcSK8wk9mPmWxcF7G7UKM?si=KFaL4VrURfOkuxmoQX9Qtw",
     "image": "images/crush_cover.png",
