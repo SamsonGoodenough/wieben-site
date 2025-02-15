@@ -32,8 +32,6 @@ navigation:
     url: /
   - text: about me
     url: /about/
-  - text: services / gear
-    url: /services/
   - text: bloggy
     url: /blog/
 
