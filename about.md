@@ -23,7 +23,7 @@ feature_image: /images/needles.png
 
 trying to find ways to make music my life, as ambitiously as possible. If you want to work with me, send me a message through insta or email!
 
-I am:
+I am:<br>
 Professional guitarist and bassist <br>
 Sound tech at Village Green Community Church<br>
 Founding member of Mistapes. Mistapes became Western University’s record label club<br>
