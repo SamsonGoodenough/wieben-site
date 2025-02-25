@@ -33,5 +33,5 @@ Graduate of the pop music undergrad program at Western University. <br>
 Mixing & mastering engineer<br>
 Guitarist in jam band Juice Joint, (2024-2025)<br>
 Ace & ND <br>
-Producer of the (UNRELEASED) vinyl album resulting from Forest City Gallery’s Postbop Beathead Jazz Workshop (2024)f<br>
+Producer of the (UNRELEASED) vinyl album resulting from Forest City Gallery’s Postbop Beathead Jazz Workshop (2024)<br>
 Engineer for Sleem (2025): Whine Problem’s debut EP
