@@ -21,19 +21,19 @@ feature_image: /images/needles.png
 ---
 *STOMPFEST 2024, MAREK W PHOTOGRAPHY*
 
-trying to find ways to make music my life, as ambitiously as possible. If you want to work with me, I’m probably down.  Send me a message through insta or email!
+trying to find ways to make music my life, as ambitiously as possible. If you want to work with me, send me a message through insta or email!
 
 I am:
-Guitarist and bassist
-Sound tech at Village Green Community Church
-Founding member of Mistapes. Mistapes became Western University’s record label club
-Producer of Inopia: Sam Hansell’s debut album. 
-Bass player in Sam’s live band, (2023-2025)
-Graduate of the pop music undergrad program at Western University. 
-Mixing & mastering engineer
-Guitarist in jam band Juice Joint, (2024-2025)
-Supporter of London’s art scene
-Queer and anticapitalist 
-Producer of the (UNRELEASED) vinyl album resulting from Forest City Gallery’s Postbop Beathead Jazz Workshop
-Session player for 6 different OIART production projects
+Professional guitarist and bassist <br>
+Sound tech at Village Green Community Church<br>
+Founding member of Mistapes. Mistapes became Western University’s record label club<br>
+Producer of Inopia: Sam Hansell’s debut album. <br>
+Bass player in Sam’s live band, (2023-2025)<br>
+Graduate of the pop music undergrad program at Western University. <br>
+Mixing & mastering engineer<br>
+Guitarist in jam band Juice Joint, (2024-2025)<br>
+Community member in the London art scene<br>
+Ace & ND <br>
+Producer of the (UNRELEASED) vinyl album resulting from Forest City Gallery’s Postbop Beathead Jazz Workshop<br>
+Session player for 6 different OIART production projects<br>
 Engineer for Sleem: Whine Problem’s debut EP
