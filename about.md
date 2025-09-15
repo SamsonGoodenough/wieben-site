@@ -26,8 +26,8 @@ I love the intersection of jazz, hip hop, and R&B.  And folk and punk.  Also lov
 my favourite song is "Enough" by Little Simz
 <br>
 <br>
-im also nonbinary and i love fashion.  my apologies if I accidentially flirt with you.  i love my partner so much and sometimes things we use slip into my vocabulary
+im also nonbinary and i enjoy fashion.  but now this is starting to sound like a dating profile
 
-Education:<br>
+MY EDUCATION:<br>
 Diploma in Audio Recording Technology from OIART<br>
 BA in Popular Music Studies from Western University
