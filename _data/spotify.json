@@ -37,11 +37,11 @@
      "color": "#ed6974"
     },
     {
-      "title": "Vape Juice (2024)",
-      "artist": "Guitar and cover art",
-      "link": "https://open.spotify.com/album/6Eyc1t1Umul6pyAxLnxreC?si=F2Yb_5NhT6yx_67ZhdPK5g",
-      "image": "images/vapejuice_cover.png",
-      "color": "#ff0086"
+      "title": "Magnetic Memory Device (2024)",
+      "artist": "Live performance and mixing",
+      "link": "https://wieben.bandcamp.com/track/magnetic-memory-device-live-at-von-kuster-hall",
+      "image": "images/magnetic_memory_cover.png",
+      "color": "#6a6a6a"
     },
     {
     "title": "Juice Joint (2024)",
@@ -77,6 +77,13 @@
     "link": "https://open.spotify.com/album/64ifEYHyLyMtZvE0IMYsEu?si=-qQVHFMjR-abe4JveUhvYQ",
     "image": "images/josie_cover.png",
     "color": "#b337a0"
+    },
+    {
+      "title": "Stations (2021)",
+    "artist": "Production and engineering",
+    "link": "https://wieben.bandcamp.com/track/stations",
+    "image": "images/stations_cover.png",
+    "color": "#e7654f"
     }
    
     
