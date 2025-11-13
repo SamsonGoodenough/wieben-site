@@ -22,7 +22,11 @@ feature_image:
 
 Borderline personality disorder appeared suddenly at 23.  I quit everything, moved out, spent all my savings, and then my personality fractured.  For 2 months, I was one of three people: an artist named Needles, his tortured muse named White Eyes, or something else.  There was a lot of self harm, and the hospital only made it worse.  I can't even say what month I went in, but it was 2025.  The personalities are gone now, but now I seldom recognize myself when I look in the mirror.  I like it this way; being hard to know carries with it unstable relationship patterns.  This is the greatest way to alleviate pain in my life, yet I sincerely apologize to those I have ended contact with.  Fortunately, my personality has somewhat stabalized now that I am identifying as non-binary.  The breaks have shortened and occur infrequently.  When they do occur, I put it into an unreleased art project called *gotosleep*.  
 
-If you're instead here to work with me, amazing!  The disorder only means I have more time to spend on music.  [Read my professional bio here.](http://wieben.ca/professional-bio)  
+Q: So your disorder is your whole personality?  Real original..
+
+A: No, you just dont know me yet  ;D
+
+So if you'd rather work with me, amazing!  Yes!  My antisocial tendencies means I have more time to spend on music.  [Read my professional bio here.](http://wieben.ca/professional-bio)  
 
 <hr>
 **Music that speaks to me:**<br>
@@ -37,4 +41,4 @@ If you're instead here to work with me, amazing!  The disorder only means I have
 "Ocean Song" by Daughters (song)<br>
 *The Sinking of the Titanic* by Gavin Bryars (album) <br>
 
-My heart goes out to anyone else who struggles with self-destructive tendencies.  I'm sorry. 
+My heart goes out to anyone else who struggles with self-destruction.  I'm sorry. 
