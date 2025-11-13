@@ -32,6 +32,10 @@ navigation:
     url: /
   - text: about me
     url: /about/
+  - text: professional bio
+    url: /professional-bio
+  - text: mixing
+    url: /mixing
   - text: bloggy
     url: /blog/
 
